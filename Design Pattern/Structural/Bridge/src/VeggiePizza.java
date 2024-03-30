@@ -12,4 +12,19 @@ public class VeggiePizza extends Pizza {
         System.out.println("Crust is: " + crust);
     }
 
+    @Override
+    public void setSauce(String s) {
+
+    }
+
+    @Override
+    public void setToppings(String s) {
+
+    }
+
+    @Override
+    public void setCrust(String s) {
+
+    }
+
 }
